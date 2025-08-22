@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kayiira Edward</h1>
 <h3 align="center">A passionate frontend developer from Uganda</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayiira-edward" alt="kayiira-edward" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/iam_ed_wa_rd" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ed_wa_rd?logo=twitter&style=for-the-badge" alt="iam_ed_wa_rd" /></a> </p>
 
 - 🔭 I’m currently working on [Nkozi Mart](https://nkozi-mart.vercel.app/)
 
@@ -26,3 +23,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kayiira-edward&show_icons=true&locale=en&layout=compact" alt="kayiira-edward" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayiira-edward&" alt="kayiira-edward" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayiira-edward" alt="kayiira-edward" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/iam_ed_wa_rd" target="blank"><img src="https://img.shields.io/twitter/follow/iam_ed_wa_rd?logo=twitter&style=for-the-badge" alt="iam_ed_wa_rd" /></a> </p>
